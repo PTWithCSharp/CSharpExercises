@@ -32,7 +32,14 @@ internal class Program
         //Console.WriteLine(Problem1_1_24.Solve(1111111, 1234567));
 
 
+        //Problem1_1_30.RelativePrimeBoolArrays(10, 10);
 
+        //int[] a = { 1, 2, 5, 6, 8 };
+        //int key = 2;
+        //Problem1_1_38.Solve(key, a);
+
+
+        Problem1_1_39.Solve(5);
 
 
     }
