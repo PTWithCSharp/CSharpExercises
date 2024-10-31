@@ -19,6 +19,20 @@ internal class Program
         //solve1_1_15.Solve(a);
 
 
+        //Problem1_1_20 solve1_1_20 = new Problem1_1_20();
+        //Console.WriteLine(solve1_1_20.Solve(5));
+
+        //Problem1_1_21 solve1_1_21 = new Problem1_1_21();
+        //solve1_1_21.Solve();
+
+        //int[] a = { 1, 2, 5, 6, 8 };
+        //int key = 2;
+        //Problem1_1_22.rank(key, a, a.Length - 1);
+
+        //Console.WriteLine(Problem1_1_24.Solve(1111111, 1234567));
+
+
+
 
 
     }
